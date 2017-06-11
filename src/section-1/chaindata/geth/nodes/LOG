@@ -1,0 +1,8 @@
+=============== Jun 11, 2017 (BST) ===============
+14:21:37.333652 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+14:21:37.334135 db@open opening
+14:21:37.336821 version@stat F·[] S·0B[] Sc·[]
+14:21:37.337094 db@janitor F·2 G·0
+14:21:37.337116 db@open done T·2.971996ms
+14:34:38.361224 db@close closing
+14:34:38.361443 db@close done T·214.032µs
